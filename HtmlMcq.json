@@ -1,0 +1,432 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "Hyperlinks and Text Markup Language",
+      "Home Tool Markup Language",
+      "None of the above"
+    ],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "question": "Which tag is used to define the main heading in HTML?",
+    "options": ["<h1>", "<h2>", "<h3>", "<h4>"],
+    "answer": "<h1>"
+  },
+  {
+    "question": "Which attribute is used to specify the alternate text for an image in HTML?",
+    "options": ["alt", "src", "title", "href"],
+    "answer": "alt"
+  },
+  {
+    "question": "Which tag is used to create a line break in HTML?",
+    "options": ["<br>", "<hr>", "<p>", "<a>"],
+    "answer": "<br>"
+  },
+  {
+    "question": "Which attribute is used to specify the URL of a linked resource in HTML?",
+    "options": ["href", "src", "link", "url"],
+    "answer": "href"
+  },
+  {
+    "question": "Which tag is used to define a table in HTML?",
+    "options": ["<table>", "<tr>", "<td>", "<th>"],
+    "answer": "<table>"
+  },
+  {
+    "question": "Which tag is used to create a checkbox input in HTML?",
+    "options": [
+      "<input type='checkbox'>",
+      "<input type='radio'>",
+      "<input type='text'>",
+      "<input type='submit'>"
+    ],
+    "answer": "<input type='checkbox'>"
+  },
+  {
+    "question": "Which tag is used to create an unordered list in HTML?",
+    "options": ["<ul>", "<ol>", "<li>", "<dl>"],
+    "answer": "<ul>"
+  },
+  {
+    "question": "Which attribute is used to specify the width of an element in HTML?",
+    "options": ["width", "size", "length", "style"],
+    "answer": "width"
+  },
+  {
+    "question": "Which tag is used to define a hyperlink in HTML?",
+    "options": ["<a>", "<link>", "<h1>", "<p>"],
+    "answer": "<a>"
+  },
+  {
+    "question": "Which tag is used to emphasize text in HTML?",
+    "options": ["<em>", "<strong>", "<i>", "<b>"],
+    "answer": "<em>"
+  },
+  {
+    "question": "Which attribute is used to specify an image source in HTML?",
+    "options": ["src", "href", "link", "url"],
+    "answer": "src"
+  },
+  {
+    "question": "Which tag is used to create a horizontal rule in HTML?",
+    "options": ["<hr>", "<br>", "<p>", "<a>"],
+    "answer": "<hr>"
+  },
+  {
+    "question": "Which tag is used to define a form in HTML?",
+    "options": ["<form>", "<input>", "<label>", "<button>"],
+    "answer": "<form>"
+  },
+  {
+    "question": "Which attribute is used to specify the target of a hyperlink in HTML?",
+    "options": ["target", "link", "href", "url"],
+    "answer": "target"
+  },
+  {
+    "question": "Which tag is used to define a paragraph in HTML?",
+    "options": ["<p>", "<br>", "<hr>", "<a>"],
+    "answer": "<p>"
+  },
+  {
+    "question": "Which attribute is used to specify the alignment of an element in HTML?",
+    "options": ["align", "position", "style", "layout"],
+    "answer": "align"
+  },
+  {
+    "question": "Which tag is used to define a list item in HTML?",
+    "options": ["<li>", "<ul>", "<ol>", "<dl>"],
+    "answer": "<li>"
+  },
+  {
+    "question": "Which attribute is used to specify the height of an image in HTML?",
+    "options": ["height", "size", "length", "style"],
+    "answer": "height"
+  },
+  {
+    "question": "Which tag is used to define an ordered list in HTML?",
+    "options": ["<ol>", "<ul>", "<li>", "<dl>"],
+    "answer": "<ol>"
+  },
+  {
+    "question": "Which attribute is used to specify the background color of an element in HTML?",
+    "options": ["bgcolor", "background", "color", "style"],
+    "answer": "bgcolor"
+  },
+  {
+    "question": "Which tag is used to create a radio button input in HTML?",
+    "options": [
+      "<input type='radio'>",
+      "<input type='checkbox'>",
+      "<input type='text'>",
+      "<input type='submit'>"
+    ],
+    "answer": "<input type='radio'>"
+  },
+  {
+    "question": "Which attribute is used to specify the alignment of text within a table cell in HTML?",
+    "options": ["align", "position", "style", "layout"],
+    "answer": "align"
+  },
+  {
+    "question": "Which tag is used to define the document type declaration in HTML?",
+    "options": ["<!DOCTYPE>", "<html>", "<head>", "<body>"],
+    "answer": "<!DOCTYPE>"
+  },
+  {
+    "question": "Which attribute is used to specify the font size of text in HTML?",
+    "options": ["size", "font-size", "style", "font"],
+    "answer": "style"
+  },
+  {
+    "question": "Which tag is used to define a division or section in HTML?",
+    "options": ["<div>", "<span>", "<section>", "<article>"],
+    "answer": "<div>"
+  },
+  {
+    "question": "Which attribute is used to specify the width of a table cell in HTML?",
+    "options": ["width", "size", "length", "style"],
+    "answer": "width"
+  },
+  {
+    "question": "Which tag is used to define a subscript text in HTML?",
+    "options": ["<sub>", "<sup>", "<small>", "<s>"],
+    "answer": "<sub>"
+  },
+  {
+    "question": "Which attribute is used to specify the background image of an element in HTML?",
+    "options": ["background", "bg-image", "image", "style"],
+    "answer": "style"
+  },
+  {
+    "question": "Which tag is used to create a submit button in HTML?",
+    "options": [
+      "<input type='submit'>",
+      "<input type='button'>",
+      "<button>",
+      "<a>"
+    ],
+    "answer": "<input type='submit'>"
+  },
+  {
+    "question": "Which attribute is used to specify the width of an image in HTML?",
+    "options": ["width", "size", "length", "style"],
+    "answer": "width"
+  },
+  {
+    "question": "Which tag is used to define a superscript text in HTML?",
+    "options": ["<sup>", "<sub>", "<small>", "<s>"],
+    "answer": "<sup>"
+  },
+  {
+    "question": "Which attribute is used to specify the alignment of an image in HTML?",
+    "options": ["align", "position", "style", "layout"],
+    "answer": "align"
+  },
+  {
+    "question": "Which tag is used to define a span of text in HTML?",
+    "options": ["<span>", "<div>", "<section>", "<article>"],
+    "answer": "<span>"
+  },
+  {
+    "question": "Which attribute is used to specify the background color of a table in HTML?",
+    "options": ["bgcolor", "background", "color", "style"],
+    "answer": "bgcolor"
+  },
+  {
+    "question": "Which tag is used to define a header for a section in HTML?",
+    "options": ["<header>", "<h1>", "<h2>", "<h3>"],
+    "answer": "<header>"
+  },
+  {
+    "question": "Which attribute is used to specify the alignment of text in an input field in HTML?",
+    "options": ["align", "position", "style", "layout"],
+    "answer": "style"
+  },
+  {
+    "question": "Which tag is used to define a footer for a section in HTML?",
+    "options": ["<footer>", "<h1>", "<h2>", "<h3>"],
+    "answer": "<footer>"
+  },
+  {
+    "question": "Which attribute is used to specify the alignment of text in a table cell in HTML?",
+    "options": ["align", "position", "style", "layout"],
+    "answer": "align"
+  },
+  {
+    "question": "Which tag is used to define an article in HTML?",
+    "options": ["<article>", "<div>", "<section>", "<span>"],
+    "answer": "<article>"
+  },
+  {
+    "question": "Which attribute is used to specify the text color in HTML?",
+    "options": ["color", "text-color", "style", "font-color"],
+    "answer": "color"
+  },
+  {
+    "question": "Which tag is used to define a navigation menu in HTML?",
+    "options": ["<nav>", "<ul>", "<ol>", "<menu>"],
+    "answer": "<nav>"
+  },
+  {
+    "question": "Which attribute is used to specify the alignment of text within a table in HTML?",
+    "options": ["align", "position", "style", "layout"],
+    "answer": "align"
+  },
+  {
+    "question": "Which tag is used to define a video player in HTML?",
+    "options": ["<video>", "<audio>", "<player>", "<media>"],
+    "answer": "<video>"
+  },
+  {
+    "question": "Which attribute is used to specify the alignment of an image in HTML?",
+    "options": ["align", "position", "style", "layout"],
+    "answer": "align"
+  },
+  {
+    "question": "Which tag is used to define an audio player in HTML?",
+    "options": ["<audio>", "<video>", "<player>", "<sound>"],
+    "answer": "<audio>"
+  },
+  {
+    "question": "Which attribute is used to specify the border color of an element in HTML?",
+    "options": ["border-color", "color", "style", "border"],
+    "answer": "style"
+  },
+  {
+    "question": "Which tag is used to define a section in HTML?",
+    "options": ["<section>", "<div>", "<span>", "<article>"],
+    "answer": "<section>"
+  },
+  {
+    "question": "Which attribute is used to specify the font style of text in HTML?",
+    "options": ["font-style", "style", "font", "text-style"],
+    "answer": "style"
+  },
+  {
+    "question": "Which tag is used to define a canvas in HTML?",
+    "options": ["<canvas>", "<paint>", "<drawing>", "<image>"],
+    "answer": "<canvas>"
+  },
+  {
+    "question": "Which attribute is used to specify the indentation of an element in HTML?",
+    "options": ["indent", "margin", "padding", "style"],
+    "answer": "style"
+  },
+  {
+    "question": "Which tag is used to define a figure in HTML?",
+    "options": ["<figure>", "<image>", "<photo>", "<picture>"],
+    "answer": "<figure>"
+  },
+  {
+    "question": "Which attribute is used to specify the number of visible options in a dropdown list in HTML?",
+    "options": ["size", "length", "visible", "options"],
+    "answer": "size"
+  },
+  {
+    "question": "Which tag is used to define a progress bar in HTML?",
+    "options": ["<progress>", "<bar>", "<meter>", "<status>"],
+    "answer": "<progress>"
+  },
+  {
+    "question": "Which attribute is used to specify the order of a list item in an ordered list in HTML?",
+    "options": ["value", "order", "number", "index"],
+    "answer": "value"
+  },
+  {
+    "question": "Which tag is used to define a meter in HTML?",
+    "options": ["<meter>", "<progress>", "<bar>", "<status>"],
+    "answer": "<meter>"
+  },
+  {
+    "question": "Which attribute is used to specify the autoplay behavior of a video or audio player in HTML?",
+    "options": ["autoplay", "play", "auto", "start"],
+    "answer": "autoplay"
+  },
+  {
+    "question": "Which tag is used to define a datalist in HTML?",
+    "options": ["<datalist>", "<list>", "<options>", "<data>"],
+    "answer": "<datalist>"
+  },
+  {
+    "question": "Which attribute is used to specify the background color of a table cell in HTML?",
+    "options": ["bgcolor", "background", "color", "style"],
+    "answer": "bgcolor"
+  },
+  {
+    "question": "Which tag is used to define a time or date in HTML?",
+    "options": ["<time>", "<date>", "<datetime>", "<moment>"],
+    "answer": "<time>"
+  },
+  {
+    "question": "Which attribute is used to specify the scrolling behavior of an iframe in HTML?",
+    "options": ["scrolling", "scroll", "frame", "scrollable"],
+    "answer": "scrolling"
+  },
+  {
+    "question": "Which tag is used to define a summary for a details element in HTML?",
+    "options": ["<summary>", "<header>", "<h1>", "<h2>"],
+    "answer": "<summary>"
+  },
+  {
+    "question": "Which attribute is used to specify the target window or frame of a hyperlink in HTML?",
+    "options": ["target", "window", "frame", "link"],
+    "answer": "target"
+  },
+  {
+    "question": "Which tag is used to define a video or audio source in HTML?",
+    "options": ["<source>", "<file>", "<media>", "<play>"],
+    "answer": "<source>"
+  },
+  {
+    "question": "Which attribute is used to specify the type of input in an input field in HTML?",
+    "options": ["type", "input-type", "field-type", "input"],
+    "answer": "type"
+  },
+  {
+    "question": "Which tag is used to define a track for a video or audio player in HTML?",
+    "options": ["<track>", "<subtitles>", "<caption>", "<subtitle>"],
+    "answer": "<track>"
+  },
+  {
+    "question": "Which attribute is used to specify the alignment of content within a fieldset in HTML?",
+    "options": ["align", "position", "style", "layout"],
+    "answer": "align"
+  },
+  {
+    "question": "Which tag is used to define a source for an image in HTML?",
+    "options": ["<source>", "<img>", "<picture>", "<image>"],
+    "answer": "<source>"
+  },
+  {
+    "question": "Which attribute is used to specify the width of a video or audio player in HTML?",
+    "options": ["width", "size", "length", "style"],
+    "answer": "width"
+  },
+  {
+    "question": "Which tag is used to define a caption for a table in HTML?",
+    "options": ["<caption>", "<head>", "<header>", "<title>"],
+    "answer": "<caption>"
+  },
+  {
+    "question": "Which attribute is used to specify the height of a video or audio player in HTML?",
+    "options": ["height", "size", "length", "style"],
+    "answer": "height"
+  },
+  {
+    "question": "Which tag is used to define a table header cell in HTML?",
+    "options": ["<th>", "<td>", "<tr>", "<thead>"],
+    "answer": "<th>"
+  },
+  {
+    "question": "Which attribute is used to specify the font weight of text in HTML?",
+    "options": ["font-weight", "style", "font", "text-weight"],
+    "answer": "style"
+  },
+  {
+    "question": "Which tag is used to define a table row in HTML?",
+    "options": ["<tr>", "<td>", "<th>", "<thead>"],
+    "answer": "<tr>"
+  },
+  {
+    "question": "Which attribute is used to specify whether an input field should be preselected in HTML?",
+    "options": ["checked", "selected", "preselect", "default"],
+    "answer": "selected"
+  },
+  {
+    "question": "Which tag is used to define a table data cell in HTML?",
+    "options": ["<td>", "<th>", "<tr>", "<tbody>"],
+    "answer": "<td>"
+  },
+  {
+    "question": "Which attribute is used to specify the font family of text in HTML?",
+    "options": ["font-family", "style", "font", "text-family"],
+    "answer": "style"
+  },
+  {
+    "question": "Which tag is used to define a table body in HTML?",
+    "options": ["<tbody>", "<table>", "<tr>", "<thead>"],
+    "answer": "<tbody>"
+  },
+  {
+    "question": "Which attribute is used to specify the maximum value of an input field in HTML?",
+    "options": ["max", "maximum", "limit", "value"],
+    "answer": "max"
+  },
+  {
+    "question": "Which tag is used to define a table in HTML?",
+    "options": ["<table>", "<tr>", "<td>", "<tbody>"],
+    "answer": "<table>"
+  },
+  {
+    "question": "Which attribute is used to specify the minimum value of an input field in HTML?",
+    "options": ["min", "minimum", "limit", "value"],
+    "answer": "min"
+  },
+  {
+    "question": "Which tag is used to define a form in HTML?",
+    "options": ["<form>", "<input>", "<fieldset>", "<button>"],
+    "answer": "<form>"
+  }
+]
